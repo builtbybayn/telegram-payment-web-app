@@ -2,7 +2,7 @@
 
 The ultimate payment flow for Telegram Mini Apps. A high-conversion, mobile-first e-commerce template built with React, Vite, and Tailwind CSS.
 
-![Telegram Commerce Demo](./assets/landing.png)
+![Telegram Commerce Demo](./assets/ProductionDemo.gif)
 
 ## Overview
 
