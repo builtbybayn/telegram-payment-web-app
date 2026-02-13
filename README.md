@@ -1,6 +1,6 @@
 # Telegram Payment Web App
 
-The ultimate payment flow for Telegram Mini Apps. A high-conversion, mobile-first e-commerce template built with React, Vite, and Tailwind CSS.
+The ultimate payment flow for Telegram Mini Apps. A high-conversion React app with Stripe & Crypto support. Need your bot built? I provide full backend, payment setup, and deployment services on Telegram.
 
 ![Telegram Commerce Demo](./assets/ProductionDemo.gif)
 
